@@ -59,4 +59,4 @@ For the current questions the form asks, it is fairly easy for relatively experi
 
 Divide the form questions into two or three groups. Fit one group in a pop up page with next and back buttons to navigate it as a sliding popup.
 
-[GitHub Repo to show my contribution progress](https://github.com/meetmuhd/webcompat)
+[GitHub Repo to show my contribution history/progress](https://github.com/meetmuhd/owcc)
