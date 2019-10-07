@@ -14,12 +14,15 @@
 ### **Answer:**
 
 * “Type of Bug” radio button options are not exhaustive.
+![Screenshot 1.1a](img/1.1a.png)
 
 * There is no direct question to identify which expected behaviour failed in the incompatible browser.
 
 * If a user chooses “Yes” to the question “Did you test in another browser?”, the form does not capture what browser type or version they tested in.
+![Screenshot 1.1c](img/1.1c.png)
 
 * The form allows users to “upload” still images only. Allowing gifs, videos and other interactive file types may simplify the process of reproducing the submitted bug.
+![Screenshot 1.1d](img/1.1d.png)
 
 ### **Question:**
 
