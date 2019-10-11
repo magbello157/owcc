@@ -47,7 +47,7 @@ For the current questions the form asks, it is fairly easy for relatively experi
 <p><img align="center" src="img/1.2e.png"></p>
 
 * 1.2f) The “Report via GitHub” button and the “All information included in this report will be publicly visible” text label beneath it should have adequately different background colors in order to distinguish the former as a button. (Screenshot below)
-<p><img align="center" src="img/1.2e.png"></p>
+<p><img align="center" src="img/1.2f.png"></p>
   
 * 1.2g) After submission, user shouldn’t be redirected. A status modal with call to action buttons should be presented instead.
 
