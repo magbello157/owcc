@@ -71,4 +71,6 @@ For the current questions the form asks, it is fairly easy for relatively experi
 
 Divide the form questions into two or three groups. Fit one group in a pop up page with next and back buttons to navigate it as a sliding popup.
 
+[View prototype of my proposed browser popup design](https://www.figma.com/proto/hoyRuvL18pUWPXmvGVPV0K/Bug-Reporter?node-id=46%3A28&scaling=min-zoom "Improved Webcompat prototype - popup version")
+
 [GitHub Repo to show my contribution history/progress](https://github.com/meetmuhd/owcc)
