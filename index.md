@@ -35,6 +35,8 @@
 
 For the current questions the form asks, it is fairly easy for relatively experienced internet users to understand how to make a submission that will at least pass the form’s validation. However, it does not contain clear messaging about what is expected of the user in terms of making a comprehensive bug report. The form also does not properly guide the user on what to do next after submitting a bug report. Based on these, the form could be improved in the following ways:
 
+[View prototype of my improved design](https://www.figma.com/proto/hoyRuvL18pUWPXmvGVPV0K/Bug-Reporter?node-id=73%3A187&scaling=contain "Improved Webcompat prototype")
+
 * 1.2a) Add a short welcome message and description of what the user is expected to do on the form.
 
 * 1.2b) Add a little animation (some kind of glow) to the Call to Action. And on mouseover on button (make arrow point downwards) to better incentivise user action.
